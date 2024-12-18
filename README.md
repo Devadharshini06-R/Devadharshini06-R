@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data analyst and data science field 
 - 🌱 I’m currently learning python,excel,power BI,data analysis,dashboard design, data modeling
 - 💞️ I’m looking to collaborate on data analytics projects and job, dashboard creation and data driven decision making tools
-- 📫 How to reach me devadharshini.radhakrishnan06@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love solving some puzzles ans enjoy watching sci-fi movies
 
