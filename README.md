@@ -1,3 +1,6 @@
+
+![Grey Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/ab10e620-2a49-4f39-9d8c-b62e486989ca)
+
 - 👋 Hi, I’m Devadharshini Radhakrishnan
 - 👀 I’m interested in Data analyst and data science field 
 - 🌱 I’m currently learning python,excel,power BI,data analysis,dashboard design, data modeling
