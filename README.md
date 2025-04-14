@@ -28,24 +28,6 @@ I am an **Electronics and Communication Engineering** graduate with a passion fo
 
 ---
 
-## 📊 Projects
-### **📌 Sales and Profit Analysis Dashboard (Power BI)**
-- Developed an **interactive dashboard** to analyze sales trends.
-- Identified top-performing products and optimized costs for better profitability.
-- **[View Project](#)**
-
-### **📌 Employee Analysis & Salary Distribution (Excel Dashboard)**
-- Cleaned and analyzed employee salary data.
-- Built an **interactive dashboard** for workforce management.
-- **[View Project](#)**
-
-### **📌 Web-Based Smart Plug for Energy Optimization (IoT + AI)**
-- Designed a **smart plug** with real-time tracking and scheduling.
-- Optimized energy usage using **IoT and data analytics**.
-- **[Read Research Paper](#)**
-
----
-
 ## 📜 Certifications
 - 🏅 Udemy - Machine Learning, Data Science & AI with Python
 - 🏅 NPTEL - Python for Data Science
