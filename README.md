@@ -15,7 +15,14 @@
 ---
 
 ## 📌 About Me
-I am an **Electronics and Communication Engineering** graduate with a passion for **Data Analytics and Data Engineering**. I love working with **Python, SQL, Power BI, and Excel** to derive meaningful insights from data. I am open to collaborations and eager to contribute to real-world data-driven projects!
+I'm Devadharshini Radhakrishnan, currently pursuing M.Tech in Artificial Intelligence at SRM University and a dedicated engineering professional who completed B.Tech in Electronics and Communication Engineering (ECE) from Periyar Maniammai Institute of Science and Technology (2020-2024). 
+I possess strong technical expertise in Python programming for data analysis and decision-making, proficient in data visualization tools for seamless data manipulation and insights generation.
+My database management skills span MySQL and PostgreSQL with solid SQL querying capabilities
+
+I'm passionate about working at the forefront of contemporary technological advancements, particularly in AI and data science, with enthusiasm for understanding newest methodological trends and techniques in data engineering.
+
+My interests extend to data-driven business optimization, applying analytical skills to uncover trends, enhance operational efficiency, and contribute to strategic decision-making through data pipeline optimization and machine learning implementation.
+I’m a collaborative and results-driven professional with expertise in data analysis, AI, and engineering principles, known for managing multiple priorities in high-pressure, fast-paced environments. I thrive on innovation, transforming complex data into actionable insights that optimize processes, drive strategic decision-making, and deliver measurable impact. My passion lies in working with visionary teams on cutting-edge projects, whether harnessing AI for advanced problem-solving or developing next-generation IoT solutions. Committed to exceeding expectations, I bring adaptability, technical excellence, and a relentless drive to contribute meaningful value to enterprise growth in today’s rapidly evolving tech landscape.
 
 ---
 
