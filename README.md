@@ -16,13 +16,13 @@
 
 ## 📌 About Me
 I'm Devadharshini Radhakrishnan, currently pursuing M.Tech in Artificial Intelligence at SRM University and a dedicated engineering professional who completed B.Tech in Electronics and Communication Engineering (ECE) from Periyar Maniammai Institute of Science and Technology (2020-2024). 
-I possess strong technical expertise in Python programming for data analysis and decision-making, proficient in data visualization tools for seamless data manipulation and insights generation.
-My database management skills span MySQL and PostgreSQL with solid SQL querying capabilities
+I have technical ability in using Python programming for data analytics and decision making, and in using data visualization tools to easily manipulate data and extract insights. 
 
-I'm passionate about working at the forefront of contemporary technological advancements, particularly in AI and data science, with enthusiasm for understanding newest methodological trends and techniques in data engineering.
+My database skills include ad/ministering MySQL and PostgreSQL with a strong proficiency with SQL for querying data and hands-on experience designing and optimizing data pipelines. I am an enthusiast working at the cutting edge of tech developments and routinely review and engage my work with the latest trends in A1 and data to provide best-in-class solutions. 
 
-My interests extend to data-driven business optimization, applying analytical skills to uncover trends, enhance operational efficiency, and contribute to strategic decision-making through data pipeline optimization and machine learning implementation.
-I’m a collaborative and results-driven professional with expertise in data analysis, AI, and engineering principles, known for managing multiple priorities in high-pressure, fast-paced environments. I thrive on innovation, transforming complex data into actionable insights that optimize processes, drive strategic decision-making, and deliver measurable impact. My passion lies in working with visionary teams on cutting-edge projects, whether harnessing AI for advanced problem-solving or developing next-generation IoT solutions. Committed to exceeding expectations, I bring adaptability, technical excellence, and a relentless drive to contribute meaningful value to enterprise growth in today’s rapidly evolving tech landscape.
+I have a specialization in business optimization based on data and use my analytical abilities to identify trends to optimize efficiencies, and improve strategic decision-making and processes through machine learning and automation of workflows. I perform well under pressure, and in fast-paced work environments; I have the technical skillset matched with an ability to pivot as needed to convert complex datasets into impactful insights as a difference maker. 
+
+My motivation is collaboration with a visionary team working on projects for advanced problem solving, next-generation developing, or optimizing enterprise systems behavior to achieve growth and output. I aim to deliver value repetitively with thought, authenticity, and results-focus to support an ever-changing pace in today’s tech advancements.
 
 ---
 
