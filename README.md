@@ -3,7 +3,7 @@
 
  # I'm Devadharshini Radhakrishnan
 
-🚀 **Aspiring Data Analyst & Data Engineer** | 📊 **Power BI | SQL | Python | Tableau | Excel**  
+🚀 **Aspiring Data Analyst, ML & Data Engineer** | 📊 **Power BI | ML | SQL | Python | Tableau | Excel**  
 💡 Passionate about transforming raw data into actionable insights and optimizing data workflows.
 
 ---
@@ -30,8 +30,9 @@ My motivation is collaboration with a visionary team working on projects for adv
 - **Programming:** Python, C
 - **Databases:** MySQL, PostgreSQL
 - **Data Tools and Technologies:** Power BI, MS Excel, Data Cleaning, Data Analytics, Data Modeling, Data Visualization
-- **Libraries & Tools:** Pandas, Matplotlib, Seaborn
-- **Version Control:** Git, GitHub
+- **Libraries & Tools:** Pandas, Matplotlib, Seaborn,streamlit, SciPy, Plotly, Scikit-Learn
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Machine Learning Algorithms
+
 
 ---
 
