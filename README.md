@@ -10,7 +10,7 @@
 
 ## 🔗 Connect with Me
 - 📧 **Email:** [Devadharshini.radhakrishnan06@gmail.com](mailto:Devadharshini.radhakrishnan06@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/devadharshini-radhakrishnan-151441282/)
+- 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/devadharshini-radhakrishnan-151441282/)
 
 ---
 
