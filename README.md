@@ -3,7 +3,7 @@
 
  # I'm Devadharshini Radhakrishnan
 
-🚀 **Aspiring Data Analyst, ML & Data Engineer** | 📊 **Power BI | ML | SQL | Python | Tableau | Excel**  
+🚀 **Aspiring Data Analyst, ML & Data Engineer** | 📊 **Power BI | ML | SQL | Python | Tableau | Excel** 
 💡 Passionate about transforming raw data into actionable insights and optimizing data workflows.
 
 ---
