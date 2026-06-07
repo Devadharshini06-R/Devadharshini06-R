@@ -11,7 +11,7 @@
 ## 🔗 Connect with Me
 - 📧 **Email:** [Devadharshini.radhakrishnan06@gmail.com](mailto:Devadharshini.radhakrishnan06@gmail.com)
 - 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/devadharshini06-r/)
-- 👩‍💻 **Portfolio:** [My Portfolio](https://claude.ai/public/artifacts/a428f3f5-6894-4f40-94a4-480d60e190e3)
+- 👩‍💻 **Portfolio:** [My Portfolio](https://devadharshini06-r.github.io/)
 
 ---
 
