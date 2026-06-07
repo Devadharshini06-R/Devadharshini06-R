@@ -10,8 +10,8 @@
 
 ## 🔗 Connect with Me
 - 📧 **Email:** [Devadharshini.radhakrishnan06@gmail.com](mailto:Devadharshini.radhakrishnan06@gmail.com)
-- 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/devadharshini-radhakrishnan-151441282/)
-- 👩‍💻 **Portfolio:** [My Portfolio](file:///C:/Users/rdeva/Downloads/index.html)
+- 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/devadharshini06-r/)
+- 👩‍💻 **Portfolio:** [My Portfolio](https://claude.ai/public/artifacts/a428f3f5-6894-4f40-94a4-480d60e190e3)
 
 ---
 
