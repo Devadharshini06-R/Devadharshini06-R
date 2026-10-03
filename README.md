@@ -1,5 +1,5 @@
 
-![Grey Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/ab10e620-2a49-4f39-9d8c-b62e486989ca)
+<img width="2056" height="765" alt="Golden Hour Analytics Workspace" src="https://github.com/user-attachments/assets/a91d7d46-eba6-41f1-9632-3ed1b0472458" />
 
  # I'm Devadharshini Radhakrishnan
 
